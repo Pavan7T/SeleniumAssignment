@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-05T00:49:56 IST" name="Default suite" finished-at="2024-07-05T00:50:01 IST" duration-ms="4104">
+    <groups>
+    </groups>
+    <test started-at="2024-07-05T00:49:56 IST" name="Default test" finished-at="2024-07-05T00:50:01 IST" duration-ms="4104">
+      <class name="Testscript.WindowsPopup">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Testscript.WindowsPopup@6771beb3]" started-at="2024-07-05T00:49:56 IST" name="beforeClass" finished-at="2024-07-05T00:49:59 IST" duration-ms="2590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="windowTask()[pri:0, instance:Testscript.WindowsPopup@6771beb3]" started-at="2024-07-05T00:49:59 IST" name="windowTask" finished-at="2024-07-05T00:50:00 IST" duration-ms="1322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowTask -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Testscript.WindowsPopup@6771beb3]" started-at="2024-07-05T00:50:00 IST" name="afterClass" finished-at="2024-07-05T00:50:01 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Testscript.WindowsPopup -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
