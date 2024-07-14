@@ -16,6 +16,9 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.LoadableComponent;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+
+//ToolQA assignment page object file
+
 public class ToolQA_assignment_PO {
 	private WebDriver driver;
 	private WebDriverWait wait;
